@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic -L"/usr/share/Imagine++/lib" CMakeFiles/Seeds.dir/Seeds.cpp.o  -o Seeds  -lImagineGraphics /usr/lib/x86_64-linux-gnu/libQt5OpenGL.so.5.14.2 -lGL -lGLU /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.14.2 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.14.2 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.14.2 

@@ -1,0 +1,35 @@
+-initialisation des variables partie declaration? 
+
+/*dzadzada*/
+//dadazdzadza
+ALGORITHME algo
+VAR entier a;
+reel a|b;
+a[5]:entier;a:entier; b:reel;
+//dazdazdazdzada
+DEBUT 
+/*dzadzadzada*/
+Faire a<--5; SI (a=5)
+a<--val;
+Pour a<--5 jusque 5 Faire a<--5;Faire a<--5; SI (a=5)
+a<--val;
+a<--val; Fait
+FIN
+/*dazdzada*/
+//adzda
+
+
+
+
+
+
+
+
+
+partieInstruction: inst_aff partieInstruction    {printf("correct");}
+					| inst_boucle partieInstruction
+					| inst_cond  partieInstruction
+					| inst_aff
+					|inst_boucle
+					|inst_cond
+;					

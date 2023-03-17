@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ray/Documents/Sorbonne Universite/VISION/TME 4 Flot Maximal Carte de Disparite/gcdispar/exampleGC.cpp
+iostream
+-
+maxflow/graph.h
+/home/ray/Documents/Sorbonne Universite/VISION/TME 4 Flot Maximal Carte de Disparite/gcdispar/maxflow/graph.h
+
+/home/ray/Documents/Sorbonne Universite/VISION/TME 4 Flot Maximal Carte de Disparite/gcdispar/maxflow/block.h
+block.h
+/home/ray/Documents/Sorbonne Universite/VISION/TME 4 Flot Maximal Carte de Disparite/gcdispar/maxflow/block.h
+stdlib.h
+-
+
+/home/ray/Documents/Sorbonne Universite/VISION/TME 4 Flot Maximal Carte de Disparite/gcdispar/maxflow/graph.h
+string.h
+-
+block.h
+/home/ray/Documents/Sorbonne Universite/VISION/TME 4 Flot Maximal Carte de Disparite/gcdispar/maxflow/block.h
+assert.h
+-
+

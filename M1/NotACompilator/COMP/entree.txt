@@ -1,0 +1,9 @@
+ALGORITHME test
+Integer p;
+Integer l||k||m ;
+Real n ||o;
+Integer T[5]|| N[7];
+{
+n:=1;
+o:=4*5*3*n;
+}

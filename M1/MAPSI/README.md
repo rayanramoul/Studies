@@ -1,0 +1,5 @@
+UE Modèles et Algorithmes Probabilistes et Statistiques pour l'Informatique (4I601) est un enseignement obligatoire du parcours IMA (M1) du master d'Informatique de Sorbonne Université
+
+Cette unité d'enseignement vise à présenter les éléments de probabilités et de statistiques fondamentaux pour l'informatique. Au-delà du simple objectif d'exposer les notions classiques telles que les variables aléatoires, les moments ou les grandes familles de distributions, l'UE a pour but de montrer l'utilisation avancée de ces notions dans divers domaines de l'informatique tels que la bioinformatique, l'intelligence artificielle ou encore l'imagerie. Les techniques ainsi étudiées (chaînes de Markov, etc.) seront illustrées sur des applications provenant de ces différents domaines.
+
+http://www-master.ufr-info-p6.jussieu.fr/parcours/ima.new/mapsi.html

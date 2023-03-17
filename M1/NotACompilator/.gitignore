@@ -1,0 +1,5 @@
+*.c
+*.h
+*.DS_STORE*
+node_modules
+*node_modules*

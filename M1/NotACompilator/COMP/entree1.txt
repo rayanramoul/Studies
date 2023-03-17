@@ -1,0 +1,24 @@
+ALGORITHME test
+Integer p;
+Integer l||k||m ;
+Real n ||o;
+Integer T[5]|| N[7]; 
+{
+EXECUT 
+l:=4+m*9/2;
+IF(l==5)
+EXECUT 
+l:=4+m*9/2;
+IF(l==5)
+While (l!=3)
+{
+l:=2;
+EXECUT 
+l:=4+m*9/2;
+IF(l==5)
+While (l!=3)
+{
+l:=2;
+}
+}
+}

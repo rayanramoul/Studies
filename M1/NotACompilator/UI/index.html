@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Compilator</title>
+  <script src="index.js"></script>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+  <link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+  <header>
+      <button class="waves-effect waves-light light-blue darken-1 btn-large" id="save">SAUVEGARDER</button><button class="waves-effect waves-light btn-large teal accent-3" id="compile">COMPILER</button><button class="waves-effect waves-light  orange accent-2 btn-large" id="execute">COMPILER ET EXECUTER</button>
+  </header>
+  
+  
+  
+
+
+
+      <ul  id="areas" class="collapsible">
+          <li>
+            <div class="collapsible-header">Algorithme</div>
+            <div class="collapsible-body"> <div class="area">
+            <textarea id="alg" class="editor"></textarea>
+          </div>
+          </div>
+          </li>
+
+
+          <li>
+            <div class="collapsible-header">Lexical</div>
+            <div class="collapsible-body">  <div class="area">
+            <textarea id="lex" class="editor"></textarea>
+          </div></div>
+          </li>
+          
+          
+          
+          
+          <li>
+            <div class="collapsible-header">Syntaxique </div>
+            <div class="collapsible-body">  <div class="area">
+            <textarea id="synt" class="editor"></textarea>
+          </div>
+          </div></div>
+          </li>
+        </ul>
+              
+ 
+
+
+
+<span id="result-span">Résultat</span>
+  <div id="result"></div>
+</body>
+</html>
